@@ -1,7 +1,19 @@
-# customer-cli
-Start menu for your terminal.
+
+#------------------------------------------------------------------
+# custommenu - Start menu for your terminal.
+#------------------------------------------------------------------
+
 ![alt text](https://raw.githubusercontent.com/john-json/customenu-cli/refs/heads/main/startmenu.png)
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/john-json/customenu-cli/blob/main/subcat.png)
+
+
+#------------------------------------------------------------------
+# info
+#------------------------------------------------------------------
+
+build in python.
+need fuzzy finder to use the search.
+yazi for the finder.
 
 #------------------------------------------------------------------
 # To run
