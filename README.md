@@ -4,7 +4,6 @@
 #------------------------------------------------------------------
 
 ![alt text](https://raw.githubusercontent.com/john-json/customenu-cli/refs/heads/main/startmenu.png)
-![alt text](https://github.com/john-json/customenu-cli/blob/main/subcat.png)
 
 
 #------------------------------------------------------------------
