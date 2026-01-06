@@ -1,6 +1,6 @@
 
 #------------------------------------------------------------------
-# custommenu - Start menu for your terminal.
+# customenu - Start menu for your terminal.
 #------------------------------------------------------------------
 
 ![alt text](https://raw.githubusercontent.com/john-json/customenu-cli/refs/heads/main/startmenu.png)
