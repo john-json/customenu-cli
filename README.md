@@ -10,6 +10,7 @@
 
 
 build in python.
+</br>
 need fuzzy finder to use the search.
 </br>
 yazi for the finder.
