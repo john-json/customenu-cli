@@ -14,6 +14,7 @@ need fuzzy finder to use the search.
 yazi for the finder.
 
 use header.txt to change the header text
+</br>
 #------------------------------------------------------------------
 # To run
 
