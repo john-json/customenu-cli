@@ -11,6 +11,7 @@
 
 build in python.
 need fuzzy finder to use the search.
+</br>
 yazi for the finder.
 
 use header.txt to change the header text
