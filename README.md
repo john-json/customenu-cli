@@ -8,8 +8,7 @@
 
 # info
 
-
-build in python.
+Python based.
 </br>
 need fuzzy finder to use the search.
 </br>
